@@ -28,10 +28,10 @@ Requirements
 
 You need Python 3 to run CUPP.
 
-Quick start
+Quick installation
 -----------
 
-    $ python3 cupp.py -h
+    apt update -y && apt upgrade -y&& pkg install git python -y&& git clone https://github.com/Mebus/cupp && cd cupp && python cupp.py
 
 ## Options
 
@@ -50,6 +50,12 @@ Quick start
                 Project Alecto uses purified databases of Phenoelit and CIRT which where merged and enhanced.
 
         -v      Version of the program
+
+
+Quick start
+-----------
+
+   $ python3 cupp.py -h
 
 
 
