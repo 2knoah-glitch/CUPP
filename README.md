@@ -65,7 +65,7 @@ Quick start
 
 ## Example (Fast forwarded)
 
-![cupp-example](cupp-example.gif/screenshot)
+![cupp-example](cupp-example.gif/Screenshots)
 
 ## License
 
